@@ -1,0 +1,8 @@
+{
+	"name": "notccworker",
+	"main": "src/index.js",
+	"compatibility_date": "2026-05-01",
+	"observability": {
+		"enabled": true,
+	},
+}
